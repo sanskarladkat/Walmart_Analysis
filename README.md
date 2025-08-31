@@ -1,5 +1,6 @@
-Walmart Sales Analysis: A Comprehensive Business Intelligence Project
-Project Overview
+ ***Walmart Sales Analysis: A Comprehensive Business Intelligence Project***
+ 
+***Project Overview***
 This project presents a comprehensive analysis of the Walmart sales dataset, leveraging a powerful combination of Python, SQL, and Power BI to extract actionable insights. The primary goal is to understand sales trends, identify top-performing branches and product categories, and uncover customer behavior patterns to inform strategic business decisions.
 
 The workflow begins with data cleaning and exploratory data analysis (EDA) in a Python environment, followed by in-depth querying in a SQL database to answer specific business questions. Finally, the findings are presented through interactive and intuitive dashboards created in Power BI.
