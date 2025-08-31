@@ -82,7 +82,31 @@ The project followed a structured, multi-stage process:
 
 ## How to Reproduce the Project  
 
-### 1. Clone the Repository  
+### 
+1. Clone the Repository  
 ```bash
 git clone https://github.com/your-username/walmart-sales-analysis.git
 cd walmart-sales-analysis
+```
+
+2. Python Environment Setup
+   - Install the required libraries
+     ```bash
+     pip install pandas matplotlib seaborn jupyter
+     ```
+
+3. Run the Analysis
+   - Open the Jupyter Notebook **walmart_analysis.ipynb** to view the data cleaning and EDA process.
+
+4. SQL Database
+   - Set up a SQL server of your choice (PostgreSQL).
+   - Use the provided python script **(Python_SQL_Data_Connector.ipynb)** to connect cleaned CSV to SQL
+   - Run the queries in the **Walmart_SQL_Analysis.sql** file to answer the business questions.
+
+5. Power BI Dashboard
+   - Open the Power BI file (Walmart.pbix).
+   - Connect it to the cleaned CSV file or your SQL database as the data source to interact with the dashboards.
+  
+
+## Conclusion
+ - This project successfully demonstrates a full-cycle data analysis workflow, from raw data to actionable business intelligence. The insights derived from this analysis can help Walmart make data-driven decisions regarding inventory management, marketing strategies, and operational staffing to improve profitability and customer satisfaction.
