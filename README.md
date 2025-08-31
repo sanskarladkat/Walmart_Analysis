@@ -15,7 +15,8 @@ The workflow begins with:
 
 ---
 
-## Project Demo  
+## Dashboard Screenshot
+!(/Screenshot.png) 
 (Screenshot of your final Power BI dashboard)  
 
 ---
