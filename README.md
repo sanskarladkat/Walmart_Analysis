@@ -16,7 +16,7 @@ The workflow begins with:
 ---
 
 ## Dashboard Screenshot
-!(/Screenshot.png) 
+![Power BI Walmart Sales Dashboard](Screenshot.png)
 (Screenshot of your final Power BI dashboard)  
 
 ---
